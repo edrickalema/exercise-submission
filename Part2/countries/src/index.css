@@ -1,0 +1,5 @@
+body {
+    background-color: azure;
+    display: grid;
+    place-items: center;
+}
